@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;PHP+%7C+Laravel+%7C+React;Designing+Scalable+Web+Systems;Turning+Ideas+Into+Production+Code;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Machine+Learning+%7C+AI+Enthusiast;Applied+ML+%26+Intelligent+Systems;Building+Scalable+Web+%26+AI+Solutions;Always+Learning+%7C+Always+Building" />
 </p>
 
 <p align="center">
@@ -25,84 +25,115 @@
 
 ---
 
+<!-- CODER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
+</p>
+
+---
+
 ## 🧠 Who Am I?
 
-I’m a **results-driven Full Stack Software Engineer** focused on building  
-**secure, scalable, and production-ready web applications**.
+I’m a **Computer Science graduate and Full Stack Software Engineer** with a strong focus on  
+**Applied Machine Learning, Intelligent Systems, and AI-powered software solutions**.
+
+I work at the intersection of:
+- **Software Engineering**
+- **Machine Learning**
+- **Data-driven decision systems**
 
 I don’t just write code —  
-I **design systems**, **optimize performance**, and **solve real problems**.
+I **design pipelines**, **analyze data**, and **build systems that scale and learn**.
 
-### 💡 What I Focus On
-- Clean architecture & maintainable code
-- Backend performance & API design
-- Modern frontend experiences
-- Real-world, business-oriented solutions
+---
+
+## 🎯 Research & Technical Interests
+
+- Applied Machine Learning & Predictive Modeling  
+- NLP-based Intelligent Systems  
+- AI-powered Decision Support Systems  
+- Intelligent Web & SaaS Platforms  
+- Human-centered AI  
 
 ---
 
 ## 🚧 Current Focus
 
-- 🔭 **Building:** High-performance **E-Commerce Platform**
-- 🌱 **Deepening:** Laravel internals, React architecture, system design
-- ⚙️ **Practicing:** REST APIs, authentication, scalable databases
-- 🎯 **Goal:** Become a **senior-level full stack engineer**
+- 🤖 **Machine Learning:** End-to-end ML pipelines, feature engineering, model evaluation  
+- 🌱 **Deepening:** scikit-learn, ML best practices, applied AI foundations  
+- ⚙️ **Engineering:** APIs, scalable backend systems  
+- 🎯 **Goal:** Master’s-level specialization in **AI & Machine Learning**
 
 ---
 
-## 🛠️ Tech Stack (Production Ready)
+## 🛠️ Tech Stack
 
-<div align="center">
+### 🔹 Programming
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55"/>
+</p>
 
+### 🔹 Machine Learning & Data
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55"/>
+</p>
+
+### 🔹 Web & Backend
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55"/>
+</p>
+
+### 🔹 DevOps & Tools
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
-
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulelah2004&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulelah2004&layout=compact&theme=tokyonight" height="160"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulelah2004&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulelah2004&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdulelah2004&theme=tokyonight" height="160"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulelah2004&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulelah2004&theme=onestar&no-frame=true&row=1&column=6"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulelah2004&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
 <div align="center">
-  <h3>🚀 Let’s build scalable, meaningful software together.</h3>
+  <h3>🚀 Open to research collaboration, ML projects, and graduate study opportunities</h3>
 </div>
